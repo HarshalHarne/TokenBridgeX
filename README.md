@@ -23,9 +23,5 @@ The long-term vision for TokenBridgeX is to enable trust-minimized interoperabil
 - Support for NFTs and multi-token formats.
 
 ## 📜 Contract Details
-
-(You can manually fill this section after deployment)
-
-- **Contract Address**:  
-- **Deployed Network**: Core Blockchain Testnet  
-- **Solidity Version**: 0.8.17  
+0xB93723d04599a19DE1CaC779fa7eeb71c62DDb29
+![image](https://github.com/user-attachments/assets/59c991a9-ac0a-40c6-8dbb-6ae6e789bafc)
